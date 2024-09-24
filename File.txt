@@ -1,1 +1,16 @@
+Backend Packages:-
+
+npm init -y
+
+npm install express multer pdf-parse cors
+
 npm i @google/generative-ai
+
+
+Frontend Packages:-
+
+npm create vite@latest
+
+npm install
+
+npm install axios

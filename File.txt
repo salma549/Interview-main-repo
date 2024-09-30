@@ -14,3 +14,5 @@ npm create vite@latest
 npm install
 
 npm install axios
+
+npm install react-alice-carousel
